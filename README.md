@@ -22,19 +22,23 @@ A React Native Expo application for managing wedding guests with manual entry an
 ## Screenshots
 
 ### Main Screen
-![Main Screen](screenshots/main-screen.png)
+<img width="365" height="791" alt="image" src="https://github.com/user-attachments/assets/d581206c-800a-49a6-a161-5683172e9f0e" />
+
 *The main dashboard showing guest statistics and action buttons*
 
 ### Guest List
-![Guest List](screenshots/guest-list.png)
+<img width="354" height="375" alt="image" src="https://github.com/user-attachments/assets/3a66e753-b610-49a0-9cb9-c19e56bfc975" />
+
 *Complete guest list with RSVP status and management options*
 
 ### Add Guest Modal
-![Add Guest Modal](screenshots/add-guest-modal.png)
+<img width="336" height="342" alt="image" src="https://github.com/user-attachments/assets/fe0916d2-670f-4ff2-938d-82d641519a30" />
+
 *Modal for manually adding new guests*
 
 ### Search and Filter
-![Search and Filter](screenshots/search-filter.png)
+<img width="329" height="333" alt="image" src="https://github.com/user-attachments/assets/8c9f97fe-fd25-4175-ac58-ce640dd72820" />
+
 *Search functionality and RSVP status filters*
 
 ## Tech Stack
